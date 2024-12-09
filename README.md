@@ -1,4 +1,7 @@
 # NYC-CRIME-DATA
+With the utilization of data science techniques, prediction models, and SQL database management,the premise of this project is to analyze and depict the variations of crime patterns in different boroughs of New York City.
+
+Steps to Complete:
 1. Data Collection
 -Retrieved a publicly available dataset from NYC Open Data containing historical crime data (2000–2023) for 77 precincts.
 -The dataset included columns such as borough, crime type, and year of occurrence.
